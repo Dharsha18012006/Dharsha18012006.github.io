@@ -1,6 +1,6 @@
 # Hello, I'm Dharsha R 👋
 
-Fourth-year engineering student specializing in Computer Science and Business Systems, with a strong foundation in Python, Artificial Intelligence, and Machine Learning. Seeking an entry-level position to apply technical knowledge, problem-solving skills, and continuous learning in a growth-oriented organization.
+Fourth-year engineering student specializing in Computer Science and Business Systems, with a strong foundation in Python, Artificial Intelligence, and Machine Learning. Seeking an entry-level position to apply technical knowledge, problem-solving skills, and continuous learning in growth-oriented organizations.
 
 ---
 
@@ -19,16 +19,17 @@ Fourth-year engineering student specializing in Computer Science and Business Sy
 
 ### 🌾 Smart Farming Assistant
 * **Tech Stack:** Python, TensorFlow, Scikit-Learn, FastAPI, Gemini API
-* [cite_start]**Description:** Engineered a CNN model using TensorFlow and Scikit-Learn for Rice Leaf Disease Detection, leveraging advanced preprocessing and evaluation to achieve a classification accuracy of greater than 90%[cite: 34].
-* [cite_start]**Features:** Integrated a multilingual chatbot via the Gemini API, delivering real-time agricultural advisory with an optimized chatbot response time of <3 seconds[cite: 35].
-* [cite_start]**Backend Integration:** Architected a FastAPI backend to seamlessly link the model and chatbot ecosystem, ensuring streamlined API routing and low-latency data processing[cite: 36].
+* **Description:** Engineered a CNN model using TensorFlow and Scikit-Learn for Rice Leaf Disease Detection, leveraging advanced preprocessing and evaluation to achieve a classification accuracy of greater than 90%.
+* **Features:** Integrated a multilingual chatbot via the Gemini API, delivering real-time agricultural advisory with an optimized chatbot response time of <3 seconds.
+* **Backend Integration:** Architected a FastAPI backend to seamlessly link the model and chatbot ecosystem, ensuring streamlined API routing and low-latency data processing.
 * **Source Code:** [📁 View GitHub Repository](https://github.com/Dharsha18012006/Smart-Farming-Assistant)
 
 ### 🔒 Security System
 * **Tech Stack:** Python, Arduino, Barcode Authentication, Databases
-* [cite_start]**Description:** Architected an automated security framework utilizing Arduino and barcode authentication, achieving a <2 second verification latency for authorized personnel[cite: 30].
-* [cite_start]**Access Control:** Engineered a custom Python-based access control interface, enabling real-time database validation and reducing unauthorized entry attempts by 30%[cite: 31].
-* [cite_start]**Optimization:** Deployed a high-performance, low-cost entry management solution that reduced hardware overhead by 40% compared to standard biometric alternatives[cite: 32].
+* **Description:** Architected an automated security framework utilizing Arduino and barcode authentication, achieving a <2 second verification latency for authorized personnel.
+* **Access Control:** Engineered a custom Python-based access control interface, enabling real-time database validation and reducing unauthorized entry attempts by 30%.
+* **Optimization:** Deployed a high-performance, low-cost entry management solution that reduced hardware overhead by 40% compared to standard biometric alternatives.
+* **Source Code:** [📁 View GitHub Repository](https://github.com/Dharsha18012006/Security-System)
 
 ---
 
@@ -41,9 +42,9 @@ Fourth-year engineering student specializing in Computer Science and Business Sy
 <summary><b>🔍 Click to view technical metrics and workflows implemented</b></summary>
 <br>
 
-* [cite_start]Architected automated service workflows using ServiceNow Flows and Automated Test Framework (ATF), reducing manual processing time by 30% through end-to-end ITSM optimization. [cite: 19]
-* [cite_start]Administered core platform configurations and ServiceNow Administration Fundamentals, maintaining 99.9% system reliability across diverse enterprise cloud environments. [cite: 20]
-* [cite_start]Leveraged advanced ServiceNow Reporting tools to engineer real-time data visualizations, improving operational transparency and decision-making speed by 20%. [cite: 21]
+* Architected automated service workflows using ServiceNow Flows and Automated Test Framework (ATF), reducing manual processing time by 30% through end-to-end ITSM optimization.
+* Administered core platform configurations and ServiceNow Administration Fundamentals, maintaining 99.9% system reliability across diverse enterprise cloud environments.
+* Leveraged advanced ServiceNow Reporting tools to engineer real-time data visualizations, improving operational transparency and decision-making speed by 20%.
 
 </details>
 
@@ -56,11 +57,12 @@ Fourth-year engineering student specializing in Computer Science and Business Sy
 <summary><b>🔍 Click to view support achievements and lifecycle optimization</b></summary>
 <br>
 
-* [cite_start]Resolved 50+ high-priority customer inquiries daily with a 98% satisfaction rating, leveraging advanced conflict-resolution strategies to ensure client retention. [cite: 25]
-* [cite_start]Streamlined sales coordination and client lifecycles, accelerating the lead-to-close pipeline by 15% through proactive stakeholder engagement. [cite: 26]
-* [cite_start]Spearheaded cross-functional collaboration and rapid problem-solving initiatives, reducing internal process bottlenecks by 20% and improving team output. [cite: 27]
+* Resolved 50+ high-priority customer inquiries daily with a 98% satisfaction rating, leveraging advanced conflict-resolution strategies to ensure client retention.
+* Streamlined sales coordination and client lifecycles, accelerating the lead-to-close pipeline by 15% through proactive stakeholder engagement.
+* Spearheaded cross-functional collaboration and rapid problem-solving initiatives, reducing internal process bottlenecks by 20% and improving team output.
 
 </details>
+
 ---
 
 ## 🎓 Education
@@ -77,8 +79,15 @@ Fourth-year engineering student specializing in Computer Science and Business Sy
 
 ---
 
+## 📊 GitHub Activity
+
+![Dharsha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dharsha18012006&show_icons=true&theme=dark&hide_border=true&count_private=true)
+
+---
+
 ## 📬 Let's Connect
 
 * **Email:** [dharsha2k6@gmail.com](mailto:dharsha2k6@gmail.com)
 * **LinkedIn:** [linkedin.com/in/dharsha-ravi-aa6b7b2a3](https://linkedin.com/in/dharsha-ravi-aa6b7b2a3)
+* **GitHub Profile:** [github.com/Dharsha18012006](https://github.com/Dharsha18012006)
 * **Location:** Chennai, Tamil Nadu, India
