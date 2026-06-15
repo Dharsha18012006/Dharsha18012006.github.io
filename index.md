@@ -39,12 +39,9 @@ Fourth-year engineering student specializing in Computer Science and Business Sy
 
 <details>
 <summary><b>🔍 Click to view technical metrics and workflows implemented</b></summary>
-<br>
 
 * Architected automated service workflows using ServiceNow Flows and Automated Test Framework (ATF), reducing manual processing time by 30% through end-to-end ITSM optimization.
-
 * Administered core platform configurations and ServiceNow Administration Fundamentals, maintaining 99.9% system reliability across diverse enterprise cloud environments.
-
 * Leveraged advanced ServiceNow Reporting tools to engineer real-time data visualizations, improving operational transparency and decision-making speed by 20%.
 
 </details>
@@ -56,12 +53,9 @@ Fourth-year engineering student specializing in Computer Science and Business Sy
 
 <details>
 <summary><b>🔍 Click to view support achievements and lifecycle optimization</b></summary>
-<br>
 
 * Resolved 50+ high-priority customer inquiries daily with a 98% satisfaction rating, leveraging advanced conflict-resolution strategies to ensure client retention.
-
 * Streamlined sales coordination and client lifecycles, accelerating the lead-to-close pipeline by 15% through proactive stakeholder engagement.
-
 * Spearheaded cross-functional collaboration and rapid problem-solving initiatives, reducing internal process bottlenecks by 20% and improving team output.
 
 </details>
