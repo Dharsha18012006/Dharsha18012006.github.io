@@ -29,7 +29,6 @@ Fourth-year engineering student specializing in Computer Science and Business Sy
 * **Description:** Architected an automated security framework utilizing Arduino and barcode authentication, achieving a <2 second verification latency for authorized personnel.
 * **Access Control:** Engineered a custom Python-based access control interface, enabling real-time database validation and reducing unauthorized entry attempts by 30%.
 * **Optimization:** Deployed a high-performance, low-cost entry management solution that reduced hardware overhead by 40% compared to standard biometric alternatives.
-* **Source Code:** [📁 View GitHub Repository](https://github.com/Dharsha18012006/Security-System)
 
 ---
 
@@ -43,7 +42,9 @@ Fourth-year engineering student specializing in Computer Science and Business Sy
 <br>
 
 * Architected automated service workflows using ServiceNow Flows and Automated Test Framework (ATF), reducing manual processing time by 30% through end-to-end ITSM optimization.
+
 * Administered core platform configurations and ServiceNow Administration Fundamentals, maintaining 99.9% system reliability across diverse enterprise cloud environments.
+
 * Leveraged advanced ServiceNow Reporting tools to engineer real-time data visualizations, improving operational transparency and decision-making speed by 20%.
 
 </details>
@@ -58,7 +59,9 @@ Fourth-year engineering student specializing in Computer Science and Business Sy
 <br>
 
 * Resolved 50+ high-priority customer inquiries daily with a 98% satisfaction rating, leveraging advanced conflict-resolution strategies to ensure client retention.
+
 * Streamlined sales coordination and client lifecycles, accelerating the lead-to-close pipeline by 15% through proactive stakeholder engagement.
+
 * Spearheaded cross-functional collaboration and rapid problem-solving initiatives, reducing internal process bottlenecks by 20% and improving team output.
 
 </details>
@@ -79,15 +82,8 @@ Fourth-year engineering student specializing in Computer Science and Business Sy
 
 ---
 
-## 📊 GitHub Activity
-
-![Dharsha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dharsha18012006&show_icons=true&theme=dark&hide_border=true&count_private=true)
-
----
-
 ## 📬 Let's Connect
 
 * **Email:** [dharsha2k6@gmail.com](mailto:dharsha2k6@gmail.com)
 * **LinkedIn:** [linkedin.com/in/dharsha-ravi-aa6b7b2a3](https://linkedin.com/in/dharsha-ravi-aa6b7b2a3)
-* **GitHub Profile:** [github.com/Dharsha18012006](https://github.com/Dharsha18012006)
 * **Location:** Chennai, Tamil Nadu, India
